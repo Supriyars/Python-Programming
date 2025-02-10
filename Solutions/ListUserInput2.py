@@ -1,0 +1,11 @@
+# li = input('Enter space separated list')
+# print(li)
+# li = li.split()
+# print(li)
+# li = list(map(int, li))
+# print(li)
+
+# tup = tuple(map(int, input('Enter space separated elements ').split()))
+# print(tup)
+li = list(map(int,input().split()))
+print(li)
